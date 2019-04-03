@@ -1,4 +1,4 @@
-# Artificial-Intelligence-in-Python
+# The game of square : Artificial intelligence in Python
 
 This is a game I created during my studies to implement the MinMax Artificial Intelligence. I used Python with Pygame library to handle the UI part.
 
